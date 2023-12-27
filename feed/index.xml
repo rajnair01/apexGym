@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apex Fitness</title>
+	<atom:link href="https://rajnair01.github.io/apexGym/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rajnair01.github.io/apexGym/</link>
+	<description>Rise to Your Prime.</description>
+	<lastBuildDate>Tue, 26 Dec 2023 18:45:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</title>
+		<link>https://rajnair01.github.io/apexGym/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod/</link>
+					<comments>https://rajnair01.github.io/apexGym/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod/#respond</comments>
+		
+		<dc:creator><![CDATA[rajnair]]></dc:creator>
+		<pubDate>Tue, 26 Dec 2023 18:45:46 +0000</pubDate>
+				<category><![CDATA[Marketing]]></category>
+		<guid isPermaLink="false">https://rajnair01.github.io/apexGym/?p=100</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>ipsum dolor sit amet, coate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+</blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rajnair01.github.io/apexGym/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
